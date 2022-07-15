@@ -1,0 +1,56 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/bg/bg1.jpg");
+  background-size: cover;
+}
+.myBG .logo .logo-image {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+}
+.myBG .intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+.myBG .intro .logo-icon {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+}
+.myBG .intro .title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 3px;
+}
+
+.trending {
+  height: auto;
+  background: url("../assets/bg/bg2.jpg");
+  background-size: cover;
+}
+.trending .movieImage {
+  height: auto;
+  background-color: white;
+  margin: 5px;
+  padding: 5px;
+}
+
+.starwars {
+  height: auto;
+  background: url("../assets/bg/wallpaperflare.com_wallpaper (2).jpg");
+  background-size: cover;
+}
+.starwars .movieImage {
+  height: auto;
+  background-color: white;
+  margin: 5px;
+  padding: 5px;
+}/*# sourceMappingURL=landingPage.css.map */
